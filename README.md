@@ -66,6 +66,5 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-![Snake animation](https://github.com/saliericodes/saliericodes/blob/output/github-contribution-grid-snake.svg)
 
 ###
