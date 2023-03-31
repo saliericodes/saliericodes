@@ -69,5 +69,3 @@
 <img src="https://raw.githubusercontent.com/saliericodes/saliericodes/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-
-###
