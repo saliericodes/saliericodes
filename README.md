@@ -2,7 +2,15 @@
 
 ###
 
-<p align="left">sou desenvolvedor Full-Stack formado na gloriosa Cubos Academy.<br><br>- 🌱Estou em procurando uma oportunidade para atuar como Dev.<br>- ⚡ Fun fact: Apaixonado por D&D e jogos de MMORPG.</p>
+<p align="left"><br>- 🌱Sou um desenvolvedor FullStack com experiência em PostgreSQL, Jest, Git, CSS, JavaScript, criptografias, consultas SQL, escopagem, refatoração, metodologias ágeis, Node.js, ReactJS, Bootstrap, JQuery, Babel, Material UI e Tailwind.<br>
+  
+  -Como defensor das metodologias ágeis, acredito em entregas rápidas e de qualidade, e em trabalhar em estreita colaboração com as partes interessadas para entender as necessidades do negócio e oferecer soluções eficazes. Tenho experiência em projetos de desenvolvimento de software do início ao fim, desde a concepção até a implantação e manutenção.<br>
+  
+  -Além disso, sou um desenvolvedor comprometido com a qualidade do código, a segurança dos dados e a experiência do usuário. Sempre busco aprender e aplicar novas tecnologias, metodologias e boas práticas em meus projetos, visando entregas rápidas e de qualidade.<br>
+  
+Estou disponível para trabalhos freelance ou oportunidades em tempo integral, e seria um prazer contribuir com minha experiência e habilidades para projetos desafiadores e inovadores. Entre em contato para saber mais sobre mim e minhas habilidades!
+  
+  - ⚡ Fun fact: Apaixonado por D&D e jogos de MMORPG.</p>
 
 ###
 
